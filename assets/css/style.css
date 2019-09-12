@@ -38,3 +38,6 @@ a{
 p.clear{
     clear: both;
 }
+img{
+    float: left;
+}
