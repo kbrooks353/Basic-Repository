@@ -35,3 +35,6 @@ a{
     border-right: solid grey;
     padding-right: 30px;
 }
+p.clear{
+    clear: both;
+}
