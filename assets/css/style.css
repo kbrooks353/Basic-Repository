@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    background-color: snow;
+    
+
+}
+h1{
+    background-color: #4aaaa5;
+    padding: 10px;
+    text-align: center;
+    display: inline;
+    margin-left: 80px;
+}
+a{
+    float: right;
+    
+    font-size: 15px;
+    
+}
+.about{
+    margin-right: 80px;
+}
+.contact{
+    margin-right: 40px;
+}
+.portfolio{
+    margin-right: 40px;
+}
