@@ -2,9 +2,9 @@
     box-sizing: border-box;
 }
 header{
-    background-color: snow;
-    
-
+    background-color: white;
+    border-bottom: solid grey;
+    height: 46px;
 }
 h1{
     background-color: #4aaaa5;
@@ -12,7 +12,8 @@ h1{
     text-align: center;
     display: inline;
     margin-left: 80px;
-}
+    color: white;
+    }
 a{
     float: right;
     
@@ -20,11 +21,17 @@ a{
     
 }
 .about{
-    margin-right: 80px;
+    margin-right: 40px;
+    border-right: solid grey;
+    padding-right: 20px;
+    
+    
 }
 .contact{
-    margin-right: 40px;
+    margin-right: 80px;
 }
 .portfolio{
     margin-right: 40px;
+    border-right: solid grey;
+    padding-right: 20px;
 }
