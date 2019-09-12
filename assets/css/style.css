@@ -1,43 +1,16 @@
 *{
     box-sizing: border-box;
+    border: 1px solid red;
 }
 header{
-    background-color: white;
-    border-bottom: solid grey;
-    height: 46px;
+    position: relative;
 }
-h1{
-    background-color: #4aaaa5;
-    padding: 11px;
-    text-align: center;
-    display: inline;
-    margin-left: 80px;
-    color: white;
-}
-
-a{
-    float: right;
-    font-size: 15px;
-    
-}
-.about{
-    margin-right: 40px;
-    border-right: solid grey;
-    padding-right: 30px;
-    
-    
+.navlist{
+    position: absolute;
+    top: 0px;
+    right: 0px;    
 }
 .contact{
-    margin-right: 80px;
-}
-.portfolio{
-    margin-right: 40px;
-    border-right: solid grey;
-    padding-right: 30px;
-}
-p.clear{
-    clear: both;
-}
-img{
-    float: left;
+    margin: 0;
+    padding: 0;
 }
