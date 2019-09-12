@@ -8,22 +8,22 @@ header{
 }
 h1{
     background-color: #4aaaa5;
-    padding: 10px;
+    padding: 11px;
     text-align: center;
     display: inline;
     margin-left: 80px;
     color: white;
-    }
+}
+
 a{
     float: right;
-    
     font-size: 15px;
     
 }
 .about{
     margin-right: 40px;
     border-right: solid grey;
-    padding-right: 20px;
+    padding-right: 30px;
     
     
 }
@@ -33,5 +33,5 @@ a{
 .portfolio{
     margin-right: 40px;
     border-right: solid grey;
-    padding-right: 20px;
+    padding-right: 30px;
 }
