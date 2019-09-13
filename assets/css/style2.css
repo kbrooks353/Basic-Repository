@@ -67,3 +67,24 @@ h2{
 .emptydiv{
     border-bottom: 1px solid #cccccc;
 }
+#enterName{
+    width: 100%;
+}
+#enterEmail{
+    width: 100%;
+}
+#enterMessage{
+    width: 100%;
+}
+footer{
+    text-align: center;
+    border-top: 5px solid #4aaaa5;
+    background-color: #666666;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    color: #ffffff;
+    font-size: 10px;
+    padding-top: 15px;
+}
