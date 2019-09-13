@@ -8,15 +8,17 @@ header{
     background-color: #ffffff;
     height: 67px;
     border-bottom: 1px solid #cccccc;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h1{
     width: 200px;
     text-align: center;
-    padding: 15px;
+    padding: 22px;
     margin-left: 148px;
     margin-top: -2px;
     background-color: #4aaaa5;
     color: #ffffff;
+    font-size: 20px;
 }
 .navlist{
     position: absolute;
@@ -29,6 +31,7 @@ h1{
 .contact{
     float: left;
     padding-right: 20px;
+    border-right: 1px solid #cccccc;
 }
 .portfolio{
     float: left;
@@ -42,6 +45,7 @@ h1{
     margin-left: 150px;
     margin-right: 150px;
     position: relative;
+    font-family: Arial, Helvetica, sans-serif;
     
     }
 h2{
@@ -61,7 +65,13 @@ img{
 }
 footer{
     text-align: center;
-    border-top: 3px solid red;
+    border-top: 5px solid #4aaaa5;
     background-color: #666666;
-    position: relative;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    color: #4aaaa5;
+    font-size: 10px;
+    padding-top: 15px;
 }
