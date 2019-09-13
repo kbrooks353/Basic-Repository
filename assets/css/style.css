@@ -4,9 +4,8 @@
 }
 header{
     position: relative;
-    margin-bottom: -24px;
     background-color: #ffffff;
-    height: 67px;
+    height: 68px;
     border-bottom: 1px solid #cccccc;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -14,7 +13,7 @@ h1{
     width: 200px;
     text-align: center;
     padding: 22px;
-    margin-left: 148px;
+    margin-left: 200px;
     margin-top: -2px;
     background-color: #4aaaa5;
     color: #ffffff;
@@ -30,24 +29,33 @@ h1{
 }
 .contact{
     float: left;
-    padding-right: 20px;
+    padding-right: 15px;
     border-right: 1px solid #cccccc;
+    margin-right: 15px;
 }
 .portfolio{
     float: left;
-    padding-right: 20px;
+    padding-right: 15px;
+    margin-right: 15px;
+    border-right: 1px solid #cccccc;
 }
 .about{
     float: left;
     padding-right: 20px;
 }
 .container2{
-    margin-left: 150px;
-    margin-right: 150px;
     position: relative;
     font-family: Arial, Helvetica, sans-serif;
-    
-    }
+    background-image: url(../images/papyrus/papyrus.png);
+    padding: 100px;
+    padding-top: 10px;
+}
+.aboutmediv{
+    padding-bottom: 10px;
+    background-color: #ffffff;
+    margin-right: 100px;
+    margin-left: 100px;
+}    
 h2{
     padding: 20px;
     color: #4aaaa5;
