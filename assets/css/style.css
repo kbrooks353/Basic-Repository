@@ -5,12 +5,28 @@
 header{
     position: relative;
 }
+h1{
+    width: 200px;
+    text-align: center;
+    padding: 15px;
+    margin-left: 90px
+}
 .navlist{
     position: absolute;
     top: 0px;
-    right: 0px;    
+    right: 0px;
+    padding: 30px;
+    list-style: none;    
 }
 .contact{
-    margin: 0;
-    padding: 0;
+    float: left;
+    padding-right: 20px;
+}
+.portfolio{
+    float: left;
+    padding-right: 20px;
+}
+.about{
+    float: left;
+    padding-right: 20px;
 }
